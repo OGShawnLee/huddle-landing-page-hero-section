@@ -32,7 +32,7 @@
     <ul class="flex gap-4 | text-lg">
       {#each icons as icon}
         <li
-          class="h-9 min-w-9 w-9 | flex items-center justify-center | border-2 border-white rounded-full hover:(text-magenta border-magenta) transition duration-200 ease-in">
+          class="h-9 min-w-9 w-9 | flex items-center justify-center | border-2 border-white rounded-full hover:(bg-white text-violet) transition duration-200 ease-in">
           <button class="h-full w-full">
             <span class="sr-only"> Follow us on {icon} </span>
             <i class="bx bxl-{icon}" />

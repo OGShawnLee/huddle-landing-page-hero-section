@@ -22,7 +22,7 @@
         audience. Create connections with your users as you engage in genuine discussion.
       </p>
       <button
-        class="py-3 px-18 max-w-[fit-content] | bg-white rounded-full text-violet font-poppins transition duration-200 easin-in hover:(bg-magenta text-white shadow-md)">
+        class="py-3 px-18 max-w-[fit-content] | bg-white rounded-full text-violet font-poppins transition duration-200 easin-in hover:(bg-magenta text-white)">
         Register
       </button>
     </div>
